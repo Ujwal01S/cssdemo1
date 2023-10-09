@@ -1,0 +1,20 @@
+/*************************** TAGS SELECTOR***************/
+h1{
+    color: red;
+    font-size: 100px;
+}
+/*
+img{
+    background-color: yellow;
+}
+*/
+
+/*************************** CLASS SELECTOR***************/
+.baccon{
+    background-color: red;
+}
+.broccoli{
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+}
